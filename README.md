@@ -18,7 +18,7 @@ A collection of SLMs related.
 
 | Paper | code | data |
 | :---------------------------------------------- | :---------------------------------------------- | :---------------------------------------------- |
-|  [MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases]([https://arxiv.org/pdf/2302.07842.pdf])  | / | / |
+|  [MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](https://arxiv.org/abs/2402.14905)  | / | / |
 
 <!-- 
 Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models|https://arxiv.org/pdf/2304.09842.pdf|Chameleon|https://chameleon-llm.github.io/|ScienceQA|https://scienceqa.github.io/|TabMWP|https://promptpg.github.io/
