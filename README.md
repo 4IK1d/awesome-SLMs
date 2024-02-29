@@ -16,9 +16,13 @@ A collection of SLMs related.
 
 # SLMs under 1B
 
-| Paper | code | data |
+| Paper | code | model |
 | :---------------------------------------------- | :---------------------------------------------- | :---------------------------------------------- |
 |  [MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](https://arxiv.org/abs/2402.14905)  | / | / |
+|  [TRANSNORMERLLM: A FASTER AND BETTER LARGE LANGUAGE MODEL WITH IMPROVED TRANSNORMER](https://arxiv.org/pdf/2307.14995.pdf)  | / | [TransNormer-385M](https://huggingface.co/OpenNLPLab/TransNormerLLM-385M) |
+|  [LiteLlama](https://arxiv.org/pdf/2307.14995.pdf)  |  | [LiteLlama](https://huggingface.co/ahxt/LiteLlama-460M-1T) |
+
+
 
 <!-- 
 Chameleon: Plug-and-Play Compositional Reasoning with Large Language Models|https://arxiv.org/pdf/2304.09842.pdf|Chameleon|https://chameleon-llm.github.io/|ScienceQA|https://scienceqa.github.io/|TabMWP|https://promptpg.github.io/
