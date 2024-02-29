@@ -18,8 +18,7 @@ A collection of SLMs related.
 
 | Paper | code | model |
 | :---------------------------------------------- | :---------------------------------------------- | :---------------------------------------------- |
-|  [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)  | [Mamba](https://github.com/state-spaces/mamba/tree/main) | [mamba-2.8b-slimpj](https://huggingface.co/state-spaces/mamba-2.8b-slimpj) |
-<!--M2-->
+|  [Mamba: Linear-Time Sequence Modeling with Selective State Spaces](https://arxiv.org/abs/2312.00752)  | [Mamba](https://github.com/state-spaces/mamba/tree/main) | [mamba-2.8b-slimpj](https://huggingface.co/state-spaces/mamba-2.8b-slimpj) |-->
 |  [MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](https://arxiv.org/abs/2402.14905)  | / | / |
 |  [TRANSNORMERLLM: A FASTER AND BETTER LARGE LANGUAGE MODEL WITH IMPROVED TRANSNORMER](https://arxiv.org/pdf/2307.14995.pdf)  | [TransnormerLLM](https://github.com/OpenNLPLab/TransnormerLLM) | [TransNormer-385M](https://huggingface.co/OpenNLPLab/TransNormerLLM-385M) |
 |  [Hierarchically Gated Recurrent Neural Network for Sequence Modeling](https://arxiv.org/pdf/2311.04823.pdf)  | [HGRN](https://github.com/OpenNLPLab/HGRN) | [HGRN-355M](https://huggingface.co/OpenNLPLab/HGRN-355M) |
