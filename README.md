@@ -19,7 +19,8 @@ A collection of SLMs related.
 | Paper | code | model |
 | :---------------------------------------------- | :---------------------------------------------- | :---------------------------------------------- |
 |  [MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases](https://arxiv.org/abs/2402.14905)  | / | / |
-|  [TRANSNORMERLLM: A FASTER AND BETTER LARGE LANGUAGE MODEL WITH IMPROVED TRANSNORMER](https://arxiv.org/pdf/2307.14995.pdf)  | / | [TransNormer-385M](https://huggingface.co/OpenNLPLab/TransNormerLLM-385M) |
+|  [TRANSNORMERLLM: A FASTER AND BETTER LARGE LANGUAGE MODEL WITH IMPROVED TRANSNORMER](https://arxiv.org/pdf/2307.14995.pdf)  | [TransnormerLLM](https://github.com/OpenNLPLab/TransnormerLLM) | [TransNormer-385M](https://huggingface.co/OpenNLPLab/TransNormerLLM-385M) |
+|  [Hierarchically Gated Recurrent Neural Network for Sequence Modeling](https://arxiv.org/pdf/2311.04823.pdf)  | [HGRN](https://github.com/OpenNLPLab/HGRN) | [HGRN-355M](https://huggingface.co/OpenNLPLab/HGRN-355M) |
 |  [LiteLlama](https://arxiv.org/pdf/2307.14995.pdf)  |  | [LiteLlama](https://huggingface.co/ahxt/LiteLlama-460M-1T) |
 
 
